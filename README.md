@@ -19,3 +19,7 @@ The color of the button indicates the current player.
 ![Screenshot1](Screenshots/ARChessboard-Screenshot1.jpg)
 ![Screenshot2](Screenshots/ARChessboard-Screenshot2.jpg)
 ![Screenshot3](Screenshots/ARChessboard-Screenshot3.jpg)
+
+
+### Report
+https://mallarde.iiens.net/S4/IRA/Rapport_Projet_RA.pdf
